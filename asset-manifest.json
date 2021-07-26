@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gagancodes2002/movie-nerd/static/css/main.b521f380.chunk.css",
+    "main.js": "/gagancodes2002/movie-nerd/static/js/main.81e95ac6.chunk.js",
+    "main.js.map": "/gagancodes2002/movie-nerd/static/js/main.81e95ac6.chunk.js.map",
+    "runtime-main.js": "/gagancodes2002/movie-nerd/static/js/runtime-main.fd42d01d.js",
+    "runtime-main.js.map": "/gagancodes2002/movie-nerd/static/js/runtime-main.fd42d01d.js.map",
+    "static/js/2.3bb9fbf0.chunk.js": "/gagancodes2002/movie-nerd/static/js/2.3bb9fbf0.chunk.js",
+    "static/js/2.3bb9fbf0.chunk.js.map": "/gagancodes2002/movie-nerd/static/js/2.3bb9fbf0.chunk.js.map",
+    "static/js/3.d23c20be.chunk.js": "/gagancodes2002/movie-nerd/static/js/3.d23c20be.chunk.js",
+    "static/js/3.d23c20be.chunk.js.map": "/gagancodes2002/movie-nerd/static/js/3.d23c20be.chunk.js.map",
+    "index.html": "/gagancodes2002/movie-nerd/index.html",
+    "static/css/main.b521f380.chunk.css.map": "/gagancodes2002/movie-nerd/static/css/main.b521f380.chunk.css.map",
+    "static/js/2.3bb9fbf0.chunk.js.LICENSE.txt": "/gagancodes2002/movie-nerd/static/js/2.3bb9fbf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd42d01d.js",
+    "static/js/2.3bb9fbf0.chunk.js",
+    "static/css/main.b521f380.chunk.css",
+    "static/js/main.81e95ac6.chunk.js"
+  ]
+}
