@@ -136,15 +136,33 @@ color: #fff;
 }
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="gallery"] {
-     max-width: 50%;
+  .gallery {
+     max-width: 100%;
+     
   }
   .movie 
   {
     margin: 0.35rem;
     height: 200px;
     width: 90px; 
-    font-size: smaller;
+    
+  }
+  .movie-title
+  {
+    font-size:x-small;
+    line-height: 1.1;
+  }
+  .movie-rating div
+  {
+    font-size:xx-small;
+  }
+  .navbar .navbar-expand-lg
+  {
+    max-width: 768px;
+  }
+  .collapse .navbar-collapse
+  {
+    max-width: 768px;
   }
    
 }
